@@ -1,4 +1,4 @@
-# HTTP Resolver doménových mien
+# HTTP Resolver doménových mien (školský projekt)
 <b> Autor : </b> Daniel Pohančaník (xpohan03@stud.fit.vutbr.cz)
 
 <b>Stručný popis implementácie:</b>
